@@ -19,7 +19,7 @@ It fetches data from the web and displays it in a scrolling list that's easy and
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GI
-<img src=http://g.recordit.co/OMF9H9Q5Bj.gif"" width=250><br>
+<img src="http://g.recordit.co/OMF9H9Q5Bj.gif" width=250><br>
 
 ### Notes
 1. I will surely submit earlier for future assignments;
