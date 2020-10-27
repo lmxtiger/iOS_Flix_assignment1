@@ -28,3 +28,25 @@ error: Unexpectedly found nil while unwrapping an Optional value" a couple of
 times and at moments it was super annoying. I ended up fixing this error by
 repeating "cleaning build folder -> build -> run -> restart xcode" several
 times.
+
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="http://g.recordit.co/rSn3jQG4ln.gif" width=250><br>
+
+### Notes
+Encountered black screen when launching the app several times during the
+development. Ended up bringing it back to normal by rearranging the navigation
+controller and the location of the "start arrow".
